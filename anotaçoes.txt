@@ -1,0 +1,3 @@
+git init - comando para iniciar repositorio git local.
+git status - verificar mudanças feitas no repositorio.
+git add . - add todos arquivos no rastreio de mudanças  
