@@ -1,3 +1,16 @@
-git init - comando para iniciar repositorio git local.
+Comandos do dia a dia  
 git status - verificar mudanças feitas no repositorio.
-git add . - add todos arquivos no rastreio de mudanças  
+git add . - add todos arquivos no rastreio de mudanças 
+git commit -m "aprendendo git" 
+
+Comandos de configuraçao de contas git local 
+git config --global user.email "jenifer.anduca@icloud.com"
+git config --global user.name "Jenifer"
+
+
+Comando para  criaçao de repositorios
+git init - comando para iniciar repositorio git local.
+git branch -M main - renomear a branch atual para o nome apos a flag 
+git remote add origin https://github.com/JeniferAnduca/Projeto-Git-GitHub-DIO.git  - faz o vinculo do seu git local com seu github
+git push -u origin main - envia o que está em commit para a branch remota
+
